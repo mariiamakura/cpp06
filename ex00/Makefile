@@ -2,7 +2,7 @@ NAME = ex00
 
 CFLAGS = -Wall -Wextra -Werror -std=c++98 -g
 
-SRCS = src/main.cpp src/ScalarConverter.cpp
+SRCS = src/main.cpp src/ScalarConverter.cpp src/TypeChecker.cpp
 
 OBJS = $(patsubst src/%.cpp, obj/%.o, $(SRCS))
 
