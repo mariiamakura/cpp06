@@ -4,6 +4,9 @@
 
 struct Data {
 public:
-    int num;
+    int level;
+    int health;
+    int points;
+    int age;
     //it can be private members as well in the struct
 };
