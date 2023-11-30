@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="04057ee3-e1dd-4b71-a399-3c8c9a05842a" name="all" defaultType="TOOL">
+      <configuration id="32244f6f-56c9-4022-9a70-241369ba223d" name="all" />
+    </target>
+    <target id="4b321b69-f614-4198-883f-c39772a68566" name="run" defaultType="TOOL">
+      <configuration id="ba174472-cec9-4c59-bf40-486a7be34c75" name="run" />
+    </target>
+  </component>
+</project>

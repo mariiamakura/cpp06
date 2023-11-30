@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/mparasku/tasks/my_github/my_cpp06 Select CMakeLists.txt
