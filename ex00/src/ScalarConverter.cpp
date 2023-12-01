@@ -100,9 +100,6 @@ static void printDouble(const std::string &literal) {
 void ScalarConverter::convert(const std::string &literal) {
     const char &type = getType(literal);
 
-    //make arr [c, i, f, d, e] with pointers to print functions
-
-    //std::cout << type << std::endl;
     if (type == 'c')
         printChar(literal.at(0));
     else if (type == 'i')
